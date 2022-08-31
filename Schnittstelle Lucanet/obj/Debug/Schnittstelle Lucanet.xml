@@ -1,0 +1,161 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Schnittstelle Lucanet
+</name>
+</assembly>
+<members>
+<member name="T:Schnittstelle_Lucanet.My.MyWebExtension">
+ <summary>
+ Modul, das zum Definieren der Eigenschaften verwendet wird, die unter "My Namespace" für Webprojekte verfügbar sind.
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="P:Schnittstelle_Lucanet.My.MyWebExtension.Computer">
+ <summary>
+ Gibt Informationen zum Hostcomputer zurück.
+ </summary>
+</member>
+<member name="P:Schnittstelle_Lucanet.My.MyWebExtension.User">
+ <summary>
+ Gibt Informationen zum aktuellen Webbenutzer zurück.
+ </summary>
+</member>
+<member name="P:Schnittstelle_Lucanet.My.MyWebExtension.Request">
+ <summary>
+ Gibt das Objekt "Request" zurück.
+ </summary>
+</member>
+<member name="P:Schnittstelle_Lucanet.My.MyWebExtension.Response">
+ <summary>
+ Gibt das Objekt "Response" zurück.
+ </summary>
+</member>
+<member name="P:Schnittstelle_Lucanet.My.MyWebExtension.Log">
+ <summary>
+ Gibt das ASP-Protokollobjekt zurück.
+ </summary>
+</member>
+<member name="T:Schnittstelle_Lucanet.My.Resources.Resources">
+<summary>
+  Eine stark typisierte Ressourcenklasse zum Suchen von lokalisierten Zeichenfolgen usw.
+</summary>
+</member>
+<member name="P:Schnittstelle_Lucanet.My.Resources.Resources.ResourceManager">
+<summary>
+  Gibt die zwischengespeicherte ResourceManager-Instanz zurück, die von dieser Klasse verwendet wird.
+</summary>
+</member>
+<member name="P:Schnittstelle_Lucanet.My.Resources.Resources.Culture">
+<summary>
+  Überschreibt die CurrentUICulture-Eigenschaft des aktuellen Threads für alle
+  Ressourcenzuordnungen, die diese stark typisierte Ressourcenklasse verwenden.
+</summary>
+</member>
+<member name="P:Schnittstelle_Lucanet.My.Resources.Resources.sql2_sql1_HStSSIS">
+<summary>
+  Sucht eine lokalisierte Zeichenfolge, die Data Source=SQL2-SQL1;Initial Catalog=HStSSiS;Persist Security Info=True;User ID=DB_SQL_CDA_ssis2ln;Password=NVrRt75SBItCeBXmkxTo70fa8 ähnelt.
+</summary>
+</member>
+<member name="F:Schnittstelle_Lucanet.page._Image1">
+<summary>
+Image1-Steuerelement
+</summary>
+<remarks>
+Automatisch generiertes Feld
+Zum Ändern Felddeklaration aus der Designerdatei in eine Code-Behind-Datei verschieben.
+</remarks>
+</member>
+<member name="F:Schnittstelle_Lucanet.page._form1">
+<summary>
+form1-Steuerelement
+</summary>
+<remarks>
+Automatisch generiertes Feld
+Zum Ändern Felddeklaration aus der Designerdatei in eine Code-Behind-Datei verschieben.
+</remarks>
+</member>
+<member name="F:Schnittstelle_Lucanet.page._DropDownList_procedure">
+<summary>
+DropDownList_procedure-Steuerelement
+</summary>
+<remarks>
+Automatisch generiertes Feld
+Zum Ändern Felddeklaration aus der Designerdatei in eine Code-Behind-Datei verschieben.
+</remarks>
+</member>
+<member name="F:Schnittstelle_Lucanet.page._DropDownList_Jahr">
+<summary>
+DropDownList_Jahr-Steuerelement
+</summary>
+<remarks>
+Automatisch generiertes Feld
+Zum Ändern Felddeklaration aus der Designerdatei in eine Code-Behind-Datei verschieben.
+</remarks>
+</member>
+<member name="F:Schnittstelle_Lucanet.page._SqlDataSource_Dropdown">
+<summary>
+SqlDataSource_Dropdown-Steuerelement
+</summary>
+<remarks>
+Automatisch generiertes Feld
+Zum Ändern Felddeklaration aus der Designerdatei in eine Code-Behind-Datei verschieben.
+</remarks>
+</member>
+<member name="F:Schnittstelle_Lucanet.page._SqlDataSource1">
+<summary>
+SqlDataSource1-Steuerelement
+</summary>
+<remarks>
+Automatisch generiertes Feld
+Zum Ändern Felddeklaration aus der Designerdatei in eine Code-Behind-Datei verschieben.
+</remarks>
+</member>
+<member name="F:Schnittstelle_Lucanet.page._Button_Ansicht_Detail">
+<summary>
+Button_Ansicht_Detail-Steuerelement
+</summary>
+<remarks>
+Automatisch generiertes Feld
+Zum Ändern Felddeklaration aus der Designerdatei in eine Code-Behind-Datei verschieben.
+</remarks>
+</member>
+<member name="F:Schnittstelle_Lucanet.page._Button_Ansicht_Lucanet">
+<summary>
+Button_Ansicht_Lucanet-Steuerelement
+</summary>
+<remarks>
+Automatisch generiertes Feld
+Zum Ändern Felddeklaration aus der Designerdatei in eine Code-Behind-Datei verschieben.
+</remarks>
+</member>
+<member name="F:Schnittstelle_Lucanet.page._Button_Uebergabe_Lucanet">
+<summary>
+Button_Uebergabe_Lucanet-Steuerelement
+</summary>
+<remarks>
+Automatisch generiertes Feld
+Zum Ändern Felddeklaration aus der Designerdatei in eine Code-Behind-Datei verschieben.
+</remarks>
+</member>
+<member name="F:Schnittstelle_Lucanet.page._TextBox">
+<summary>
+TextBox-Steuerelement
+</summary>
+<remarks>
+Automatisch generiertes Feld
+Zum Ändern Felddeklaration aus der Designerdatei in eine Code-Behind-Datei verschieben.
+</remarks>
+</member>
+<member name="F:Schnittstelle_Lucanet.page._GridView1">
+<summary>
+GridView1-Steuerelement
+</summary>
+<remarks>
+Automatisch generiertes Feld
+Zum Ändern Felddeklaration aus der Designerdatei in eine Code-Behind-Datei verschieben.
+</remarks>
+</member>
+</members>
+</doc>

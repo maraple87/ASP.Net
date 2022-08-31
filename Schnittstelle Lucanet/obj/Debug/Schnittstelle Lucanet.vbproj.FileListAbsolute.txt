@@ -1,0 +1,63 @@
+C:\Entwicklung\Team Foundation\WebAnwendungen\Fibu\Schnittstelle Lucanet\bin\Schnittstelle Lucanet.dll.config
+C:\Entwicklung\Team Foundation\WebAnwendungen\Fibu\Schnittstelle Lucanet\bin\Schnittstelle Lucanet.dll
+C:\Entwicklung\Team Foundation\WebAnwendungen\Fibu\Schnittstelle Lucanet\bin\Schnittstelle Lucanet.pdb
+C:\Entwicklung\Team Foundation\WebAnwendungen\Fibu\Schnittstelle Lucanet\bin\Schnittstelle Lucanet.xml
+C:\Entwicklung\Team Foundation\WebAnwendungen\Fibu\Schnittstelle Lucanet\bin\roslyn\csc.exe
+C:\Entwicklung\Team Foundation\WebAnwendungen\Fibu\Schnittstelle Lucanet\bin\roslyn\csc.exe.config
+C:\Entwicklung\Team Foundation\WebAnwendungen\Fibu\Schnittstelle Lucanet\bin\roslyn\csc.rsp
+C:\Entwicklung\Team Foundation\WebAnwendungen\Fibu\Schnittstelle Lucanet\bin\roslyn\csi.exe
+C:\Entwicklung\Team Foundation\WebAnwendungen\Fibu\Schnittstelle Lucanet\bin\roslyn\csi.exe.config
+C:\Entwicklung\Team Foundation\WebAnwendungen\Fibu\Schnittstelle Lucanet\bin\roslyn\csi.rsp
+C:\Entwicklung\Team Foundation\WebAnwendungen\Fibu\Schnittstelle Lucanet\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Entwicklung\Team Foundation\WebAnwendungen\Fibu\Schnittstelle Lucanet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Entwicklung\Team Foundation\WebAnwendungen\Fibu\Schnittstelle Lucanet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Entwicklung\Team Foundation\WebAnwendungen\Fibu\Schnittstelle Lucanet\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Entwicklung\Team Foundation\WebAnwendungen\Fibu\Schnittstelle Lucanet\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Entwicklung\Team Foundation\WebAnwendungen\Fibu\Schnittstelle Lucanet\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Entwicklung\Team Foundation\WebAnwendungen\Fibu\Schnittstelle Lucanet\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Entwicklung\Team Foundation\WebAnwendungen\Fibu\Schnittstelle Lucanet\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Entwicklung\Team Foundation\WebAnwendungen\Fibu\Schnittstelle Lucanet\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Entwicklung\Team Foundation\WebAnwendungen\Fibu\Schnittstelle Lucanet\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Entwicklung\Team Foundation\WebAnwendungen\Fibu\Schnittstelle Lucanet\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Entwicklung\Team Foundation\WebAnwendungen\Fibu\Schnittstelle Lucanet\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Entwicklung\Team Foundation\WebAnwendungen\Fibu\Schnittstelle Lucanet\bin\roslyn\System.AppContext.dll
+C:\Entwicklung\Team Foundation\WebAnwendungen\Fibu\Schnittstelle Lucanet\bin\roslyn\System.Collections.Immutable.dll
+C:\Entwicklung\Team Foundation\WebAnwendungen\Fibu\Schnittstelle Lucanet\bin\roslyn\System.Console.dll
+C:\Entwicklung\Team Foundation\WebAnwendungen\Fibu\Schnittstelle Lucanet\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Entwicklung\Team Foundation\WebAnwendungen\Fibu\Schnittstelle Lucanet\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Entwicklung\Team Foundation\WebAnwendungen\Fibu\Schnittstelle Lucanet\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Entwicklung\Team Foundation\WebAnwendungen\Fibu\Schnittstelle Lucanet\bin\roslyn\System.Globalization.Calendars.dll
+C:\Entwicklung\Team Foundation\WebAnwendungen\Fibu\Schnittstelle Lucanet\bin\roslyn\System.IO.Compression.dll
+C:\Entwicklung\Team Foundation\WebAnwendungen\Fibu\Schnittstelle Lucanet\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Entwicklung\Team Foundation\WebAnwendungen\Fibu\Schnittstelle Lucanet\bin\roslyn\System.IO.FileSystem.dll
+C:\Entwicklung\Team Foundation\WebAnwendungen\Fibu\Schnittstelle Lucanet\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Entwicklung\Team Foundation\WebAnwendungen\Fibu\Schnittstelle Lucanet\bin\roslyn\System.Net.Http.dll
+C:\Entwicklung\Team Foundation\WebAnwendungen\Fibu\Schnittstelle Lucanet\bin\roslyn\System.Net.Sockets.dll
+C:\Entwicklung\Team Foundation\WebAnwendungen\Fibu\Schnittstelle Lucanet\bin\roslyn\System.Reflection.Metadata.dll
+C:\Entwicklung\Team Foundation\WebAnwendungen\Fibu\Schnittstelle Lucanet\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Entwicklung\Team Foundation\WebAnwendungen\Fibu\Schnittstelle Lucanet\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Entwicklung\Team Foundation\WebAnwendungen\Fibu\Schnittstelle Lucanet\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Entwicklung\Team Foundation\WebAnwendungen\Fibu\Schnittstelle Lucanet\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Entwicklung\Team Foundation\WebAnwendungen\Fibu\Schnittstelle Lucanet\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Entwicklung\Team Foundation\WebAnwendungen\Fibu\Schnittstelle Lucanet\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Entwicklung\Team Foundation\WebAnwendungen\Fibu\Schnittstelle Lucanet\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Entwicklung\Team Foundation\WebAnwendungen\Fibu\Schnittstelle Lucanet\bin\roslyn\System.ValueTuple.dll
+C:\Entwicklung\Team Foundation\WebAnwendungen\Fibu\Schnittstelle Lucanet\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Entwicklung\Team Foundation\WebAnwendungen\Fibu\Schnittstelle Lucanet\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Entwicklung\Team Foundation\WebAnwendungen\Fibu\Schnittstelle Lucanet\bin\roslyn\System.Xml.XPath.dll
+C:\Entwicklung\Team Foundation\WebAnwendungen\Fibu\Schnittstelle Lucanet\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Entwicklung\Team Foundation\WebAnwendungen\Fibu\Schnittstelle Lucanet\bin\roslyn\vbc.exe
+C:\Entwicklung\Team Foundation\WebAnwendungen\Fibu\Schnittstelle Lucanet\bin\roslyn\vbc.exe.config
+C:\Entwicklung\Team Foundation\WebAnwendungen\Fibu\Schnittstelle Lucanet\bin\roslyn\vbc.rsp
+C:\Entwicklung\Team Foundation\WebAnwendungen\Fibu\Schnittstelle Lucanet\bin\roslyn\VBCSCompiler.exe
+C:\Entwicklung\Team Foundation\WebAnwendungen\Fibu\Schnittstelle Lucanet\bin\roslyn\VBCSCompiler.exe.config
+C:\Entwicklung\Team Foundation\WebAnwendungen\Fibu\Schnittstelle Lucanet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Entwicklung\Team Foundation\WebAnwendungen\Fibu\Schnittstelle Lucanet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Entwicklung\Team Foundation\WebAnwendungen\Fibu\Schnittstelle Lucanet\obj\Debug\Schnittstelle Lucanet.vbproj.AssemblyReference.cache
+C:\Entwicklung\Team Foundation\WebAnwendungen\Fibu\Schnittstelle Lucanet\obj\Debug\Schnittstelle_Lucanet.Resources.resources
+C:\Entwicklung\Team Foundation\WebAnwendungen\Fibu\Schnittstelle Lucanet\obj\Debug\Schnittstelle Lucanet.vbproj.GenerateResource.cache
+C:\Entwicklung\Team Foundation\WebAnwendungen\Fibu\Schnittstelle Lucanet\obj\Debug\Schnittstelle Lucanet.vbproj.CoreCompileInputs.cache
+C:\Entwicklung\Team Foundation\WebAnwendungen\Fibu\Schnittstelle Lucanet\obj\Debug\Schnittstelle Lucanet.vbproj.CopyComplete
+C:\Entwicklung\Team Foundation\WebAnwendungen\Fibu\Schnittstelle Lucanet\obj\Debug\Schnittstelle Lucanet.dll
+C:\Entwicklung\Team Foundation\WebAnwendungen\Fibu\Schnittstelle Lucanet\obj\Debug\Schnittstelle Lucanet.xml
+C:\Entwicklung\Team Foundation\WebAnwendungen\Fibu\Schnittstelle Lucanet\obj\Debug\Schnittstelle Lucanet.pdb
